@@ -1,2 +1,5 @@
 To run this json file 
-npx json-server db.json
+
+```bash
+ npx json-server db.json
+ ```
